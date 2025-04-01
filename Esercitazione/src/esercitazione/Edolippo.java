@@ -11,6 +11,6 @@ package esercitazione;
 public class Edolippo {
     
     public void stampa(){
-        System.out.println("");
+        System.out.println("veronica zitta!!");
     }
 }
