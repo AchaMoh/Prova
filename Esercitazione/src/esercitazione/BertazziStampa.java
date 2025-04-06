@@ -11,5 +11,6 @@ package esercitazione;
 public class BertazziStampa {
     public void stampa(){
         System.out.println("ciao");
+        System.out.println("stampa");
     }
 }
